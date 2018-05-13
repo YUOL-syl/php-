@@ -72,5 +72,6 @@
 ### 附：PHP
 
 完成上述任务以后时间充足的同学可以开学学习([PHP](https://pan.baidu.com/s/1AYrsYDJO0qytvClBwDHd4Q)(密码：7s3y))
+W3school [PHP教程](http://www.w3school.com.cn/php/)
 
 
