@@ -32,9 +32,10 @@ phpmyadmin的账户密码如果没有设置，一般为root 密码为空
 ###  第三次任务
 
 1. 用php代码连接数据库
-2. 用html编写一个注册页面，再用php编写一个处理注册的php文件
-3. 用html编写一个登录页面，再用php编写一个处理登录的php文件
+2. 用html编写一个注册页面，再用php编写一个处理注册的php文件![注册页面示例](https://github.com/YUOL-syl/php-task/blob/master/%E6%B3%A8%E5%86%8C.png)
+3. 用html编写一个登录页面，再用php编写一个处理登录的php文件![登录页面示例](https://github.com/YUOL-syl/php-task/blob/master/%E7%99%BB%E5%BD%95.png)
 4. 在注册页面注册的账号能在登录页面登录，尽量多的考虑一些不能登录注册的情况，且处理这些情况，比如登陆注册时输入的密码为空该怎么办？
+5. 示例图片只是html的示例，大家样式可以写的更好看，也可以就简单的，推荐自己写写样式让它更好看，也可以巩固前面的知识
 
 ---
 
