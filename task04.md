@@ -22,6 +22,8 @@
 
 1.将上次所写的登录注册用上，也可自己重新写一份样子的页面。
 2.用php编写一个自己的表白墙，注册登录以后进入表白墙![表白墙示例](https://github.com/YUOL-syl/php-task/blob/master/%E8%A1%A8%E7%99%BD%E5%A2%99.png)
+![表白墙示例](https://github.com/YUOL-syl/php-task/blob/master/%E8%A1%A8%E7%99%BD%E5%A2%992.png)
+![表白墙示例](https://github.com/YUOL-syl/php-task/blob/master/%E8%A1%A8%E7%99%BD%E5%A2%993.png)
 
 
 ---
