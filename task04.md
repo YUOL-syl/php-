@@ -20,9 +20,9 @@
 
 ###  第三次任务
 
- 1.将上次所写的登录注册用上，也可自己重新写一份样子的页面。
- 2.用php编写一个自己的表白墙，注册登录以后进入表白墙![表白墙示例](https://github.com/YUOL-syl/php-   task/blob/master/%E8%A1%A8%E7%99%BD%E5%A2%99.png)
- 点进我要表白会再有表白输出框的留言页面。
+1.将上次所写的登录注册用上，也可自己重新写一份样子的页面。
+2.用php编写一个自己的表白墙，注册登录以后进入表白墙![表白墙示例](https://github.com/YUOL-syl/php- task/blob/master/%E8%A1%A8%E7%99%BD%E5%A2%99.png)
+点进我要表白会再有表白输出框的留言页面。
  3.不要按照我给的样子写，请自由发挥自己的想象力
 
 ---
@@ -44,6 +44,6 @@
 
 ---
 
-###附
+### 附
 
 上次任务示范文件，比较简单[login](https://github.com/YUOL-syl/php-task/blob/master/login.zip)
